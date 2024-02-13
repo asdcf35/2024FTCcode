@@ -1,4 +1,5 @@
 # Road Runner Quickstart
+<em>Don't edit master, branch off of dev(recommended) or prod(highly not recommended)</em>
 
 An example FTC project using [Road Runner](https://github.com/acmerobotics/road-runner).
 
